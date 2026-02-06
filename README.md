@@ -3,12 +3,12 @@
 The repository contains the code for the implementation of MobileViT in TensorFlow and in Pytorch. 
 We train both of our networks in Caltech-256.
 
-Paper: https://arxiv.org/pdf/2110.02178.pdf
+Paper: [here](https://arxiv.org/pdf/2110.02178.pdf)
 
 # MobileViT presentation results.
 We also did training on non squered images (150x1920). Check the representation below to find out how it can be done
 
-[![Presentation](https://docs.google.com/presentation/d/13NR6mReDiherR5et7GP_pS_dyzg0gjSp/thumbnail?sz=w1200)](https://docs.google.com/presentation/d/13NR6mReDiherR5et7GP_pS_dyzg0gjSp/edit?usp=sharing)
+📑 **Presentation:** [Google Slides deck](https://docs.google.com/presentation/d/13NR6mReDiherR5et7GP_pS_dyzg0gjSp/edit?usp=sharing)
 
 
 ![mvit](https://user-images.githubusercontent.com/65830412/201538565-090cfb7a-822f-48cb-9197-c687d61e9541.gif)
@@ -21,7 +21,7 @@ We also did training on non squered images (150x1920). Check the representation 
 The architecture constists of 3 Blocks:
  1) Simple Convolution blocks
  
- 2) MV2 Blocks: Inverted residual blocks from MobileNetV2 (https://arxiv.org/pdf/1801.04381.pdf)
+ 2) MV2 Blocks: Inverted residual blocks from MobileNetV2 ([link](https://arxiv.org/pdf/1801.04381.pdf))
 
 
 ![Screenshot from 2022-11-14 11-42-10](https://user-images.githubusercontent.com/65830412/201627496-00601190-d590-4296-905f-6fdcee003e22.png)
@@ -34,7 +34,7 @@ The architecture constists of 3 Blocks:
 
 
 # DATA COLLECTION
-We download the caltech_256 from https://www.kaggle.com/datasets/jessicali9530/caltech256
+We download the caltech_256 from [kaggle](https://www.kaggle.com/datasets/jessicali9530/caltech256)
 
 # Requirements for both enviroments:
 
