@@ -8,7 +8,7 @@ Paper: https://arxiv.org/pdf/2110.02178.pdf
 # MobileViT presentation results.
 We also did training on non squered images (150x1920). Check the representation below to find out how it can be done
 
-Presentation: https://docs.google.com/presentation/d/13NR6mReDiherR5et7GP_pS_dyzg0gjSp/edit?usp=share_link&ouid=103271385021277568063&rtpof=true&sd=true
+[![Presentation](https://docs.google.com/presentation/d/13NR6mReDiherR5et7GP_pS_dyzg0gjSp/thumbnail?sz=w1200)](https://docs.google.com/presentation/d/13NR6mReDiherR5et7GP_pS_dyzg0gjSp/edit?usp=sharing)
 
 
 ![mvit](https://user-images.githubusercontent.com/65830412/201538565-090cfb7a-822f-48cb-9197-c687d61e9541.gif)
